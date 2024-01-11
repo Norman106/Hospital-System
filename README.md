@@ -1,19 +1,43 @@
-How to run the Hospital Management System (HMS) Project
-1. Download the  zip file
+# Hospital Management System (HMS) Project Setup Guide
 
-2. Extract the file and copy hospital folder
+## 1. Download the Project
+   - Download the project as a zip file.
 
-3.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
+## 2. Extract and Copy
+   - Extract the downloaded zip file.
+   - Copy the "hospital" folder.
 
-4. Open PHPMyAdmin (http://localhost/phpmyadmin)
+## 3. Paste in Root Directory
+   - Paste the "hospital" folder in the root directory.
+     - For XAMPP: `xampp/htdocs`
+     - For Wamp: `wamp/www`
+     - For LAMP: `var/www/html`
 
-5. Create a database with name hms
+## 4. Open PHPMyAdmin
+   - Open PHPMyAdmin in your web browser (http://localhost/phpmyadmin).
 
-6. Import hms.sql file(given inside the zip package in SQL file folder)
+## 5. Create Database
+   - Create a new database named `hms`.
 
-7.Run the script http://localhost/hospital (frontend)
+## 6. Import SQL File
+   - Locate the `hms.sql` file inside the "SQL file" folder of the extracted zip package.
+   - Import the `hms.sql` file into the `hms` database using PHPMyAdmin.
 
-Login Details
-Login Details for admin : admin/Test@12345
-Login Details for Patient: test@gmail.com/Test@123
-Login Details for Doctor: test@demo.com/Test@123
+## 7. Run the Script
+   - Run the script by visiting http://localhost/hospital in your web browser (for the frontend).
+
+### Login Details:
+
+**Admin:**
+- Username: admin
+- Password: Test@12345
+
+**Patient:**
+- Email: test@gmail.com
+- Password: Test@123
+
+**Doctor:**
+- Email: test@demo.com
+- Password: Test@123
+
+Feel free to add any necessary information or fine-tune the system as per your requirements. Explore the different features of the Hospital Management System using the provided login credentials.
