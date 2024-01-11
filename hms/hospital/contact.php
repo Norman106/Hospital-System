@@ -56,9 +56,9 @@ echo "<script>window.location.href ='contact.php'</script>";
 						    	<p>500 Lorem Ipsum Dolor Sit,</p>
 						   		<p>22-56-2-9 Sit Amet, Lorem,</p>
 						   		<p>KENYA</p>
-				   		<p>Phone:+254746261983</p>
+				   		<p>Phone:+254742201184</p>
 				   		<p>Fax: (000) 000 00 00 0</p>
-				 	 	<p>Email: <span>brianonsongo82016@gmail.com</span></p>
+				 	 	<p>Email: <span>normankhisa106@gmail.com</span></p>
 				   	
 				   </div>
 				</div>				
